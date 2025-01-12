@@ -3,6 +3,19 @@ import java.io.*;
 import java.util.*;
 
 //USACO - Binary Search - Codeforces
+// Question - https://codeforces.com/contest/1244/problem/E
+/*
+You are given a sequence a1,a2,…,an consisting of n integers.
+You may perform the following operation on this sequence: choose any element and either increase or decrease it by one.
+Calculate the minimum possible difference between the maximum element and the minimum element in the sequence, if you can perform the aforementioned operation no more than k times.
+
+Input
+The first line contains two integers n and k (2≤n≤105,1≤k≤1014) — the number of elements in the sequence and the maximum number of times you can perform the operation, respectively.
+The second line contains a sequence of integers a1,a2,…,an (1≤ai≤109).
+
+Output
+Print the minimum possible difference between the maximum element and the minimum element in the sequence, if you can perform the aforementioned operation no more than k times.
+*/
 
 public class MinimizingDifference {
     public static void main(String[] args) throws IOException{
