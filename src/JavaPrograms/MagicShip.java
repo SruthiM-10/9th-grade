@@ -5,6 +5,19 @@ import java.io.*;
 // accepted
 /*
 Question: https://codeforces.com/problemset/problem/1117/C
+Input
+The first line contains two integers x1,y1 (0≤x1,y1≤109) — the initial coordinates of the ship.
+The second line contains two integers x2,y2 (0≤x2,y2≤109) — the coordinates of the destination point.
+
+It is guaranteed that the initial coordinates and destination point coordinates are different.
+The third line contains a single integer n (1≤n≤105) — the length of the string s.
+
+The fourth line contains the string s itself, consisting only of letters U, D, L and R.
+
+Output
+The only line should contain the minimal number of days required for the ship to reach the point (x2,y2).
+
+If it's impossible then print "-1".
 */
 
 public class MagicShip {
