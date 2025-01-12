@@ -2,6 +2,10 @@ package JavaPrograms;
 import java.io.*;
 
 //interactive problem on Codeforces (didn't work)
+/*
+Question - https://codeforces.com/contest/1520/problem/F1
+Still working on it.
+*/
 
 public class GuessTheKthZero {
     public static void main(String[] args) throws IOException{
