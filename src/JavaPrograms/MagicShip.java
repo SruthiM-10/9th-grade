@@ -3,6 +3,9 @@ import java.io.*;
 
 //USACO Guide - Binary Search (Codeforces)
 // accepted
+/*
+Question: https://codeforces.com/problemset/problem/1117/C
+*/
 
 public class MagicShip {
     static long x1, x2, y1, y2;
