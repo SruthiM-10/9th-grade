@@ -3,6 +3,16 @@ import java.io.*;
 import java.util.*;
 
 //USACO 2016 US Open Contest, Silver
+// Question - https://usaco.org/index.php?page=viewproblem2&cpid=644
+/*
+INPUT FORMAT (file closing.in):
+The first line of input contains N and M. 
+The next M lines each describe a path in terms of the pair of barns it connects (barns are conveniently numbered 1…N). 
+The final N lines give a permutation of 1…N describing the order in which the barns will be closed.
+OUTPUT FORMAT (file closing.out):
+The output consists of N lines, each containing "YES" or "NO". 
+The first line indicates whether the initial farm is fully connected, and line i+1indicates whether the farm is fully connected after the ith closing.
+*/
 
 public class ClosingTheFarm {
     static ArrayList<ArrayList<Integer>> adj;
