@@ -2,6 +2,15 @@ package JavaPrograms;
 import java.io.*;
 
 //(CSES) USACO Guide Silver Section "Binary Search
+/*
+You are given an array containing n positive integers.
+Your task is to divide the array into k subarrays so that the maximum sum in a subarray is as small as possible.
+Input
+The first input line contains two integers n and k: the size of the array and the number of subarrays in the division.
+The next line contains n integers x_1,x_2,...,x_n: the contents of the array.
+Output
+Print one integer: the maximum sum in a subarray in the optimal division.
+*/
 
 public class ArrayDivision {
     public static void main(String[] args) throws IOException{

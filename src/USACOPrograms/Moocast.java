@@ -2,7 +2,16 @@ package USACOPrograms;
 import java.io.*;
 import java.util.*;
 
-//USACO 2016 December Contest, Silver
+//USACO 2016 December Contest, Silver\
+//Question - https://usaco.org/index.php?page=viewproblem2&cpid=668
+/*
+INPUT FORMAT (file moocast.in):
+The first line of input contains N. 
+The next N lines each contain the x and y coordinates of a single cow (integers in the range 0…25,000) followed by p, the power of the walkie-talkie held by this cow.
+
+OUTPUT FORMAT (file moocast.out):
+Write a single line of output containing the maximum number of cows a broadcast from a single cow can reach. The originating cow is included in this number.
+*/
 
 public class Moocast {
     static boolean[][] connected;

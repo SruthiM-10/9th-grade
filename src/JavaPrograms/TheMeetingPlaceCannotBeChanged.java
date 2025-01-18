@@ -3,6 +3,20 @@ import java.io.*;
 import java.util.*;
 
 //USACO Guide - Binary Search - Codeforces
+// Question - https://codeforces.com/contest/782/problem/B
+/*
+Input
+The first line contains single integer n (2 ≤ n ≤ 60 000) — the number of friends.
+
+The second line contains n integers x1, x2, ..., xn (1 ≤ xi ≤ 109) — the current coordinates of the friends, in meters.
+
+The third line contains n integers v1, v2, ..., vn (1 ≤ vi ≤ 109) — the maximum speeds of the friends, in meters per second.
+
+Output
+Print the minimum time (in seconds) needed for all the n friends to meet at some point on the road.
+
+Your answer will be considered correct, if its absolute or relative error isn't greater than 10 - 6. Formally, let your answer be a, while jury's answer be b. Your answer will be considered correct if  holds.
+*/
 
 public class TheMeetingPlaceCannotBeChanged {
     static final double MAX_ERROR = 10e-6;

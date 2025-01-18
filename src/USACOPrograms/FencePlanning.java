@@ -3,6 +3,15 @@ import java.io.*;
 import java.util.*;
 
 //USACO 2019 US Open Contest, Silver - 9/10 test cases passed (HashMap Overcomplication)
+/*
+INPUT FORMAT (file fenceplan.in):
+The first line of input contains N and M. The next N lines each contain the x and y coordinates of a cow (nonnegative integers of size at most 108). 
+The next M lines each contain two integers a and b describing a moo connection between cows a and b. 
+Every cow has at least one moo connection, and no connection is repeated in the input.
+
+OUTPUT FORMAT (file fenceplan.out):
+Please print the smallest perimeter of a fence satisfying Farmer John's requirements.
+*/
 
 public class FencePlanning {
     static HashMap<int[], ArrayList<int[]>> adj;

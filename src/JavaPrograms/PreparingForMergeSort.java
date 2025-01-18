@@ -5,6 +5,16 @@ import java.util.*;
 //USACO - Binary Search - Codeforces
 // TLE on very late test cases, try without Map -> code the binary search yourself
 // Also use 2D arraylist
+// Question - https://codeforces.com/contest/847/problem/B
+/*
+Input
+The first line contains a single integer n (1 ≤ n ≤ 2·105) — the number of elements in Ivan's array.
+
+The second line contains a sequence consisting of distinct integers a1, a2, ..., an (1 ≤ ai ≤ 109) — Ivan's array.
+
+Output
+Print representation of the given array in the form of one or more increasing sequences in accordance with the algorithm described above. Each sequence must be printed on a new line.
+*/
 
 public class PreparingForMergeSort {
     public static void main(String[] args) throws IOException{

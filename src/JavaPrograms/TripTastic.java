@@ -4,6 +4,16 @@ import java.util.*;
 
 //Binary Search - USACO Guide - CodeChef
 // correct answer, note be careful when using read.read (gives ascii value not the number and includes whenever there's a new line or a space :/)
+// Question - https://www.codechef.com/problems/TRPTSTIC
+/*
+Input Format
+The first line of input will contain a single integer T, denoting the number of test cases.
+The first line of each test case contains three space-separated integers N,M,K — the number of rows, columns, and students, respectively.
+The next N lines contain M space-separated integers each, denoting the capacity of each room.
+Output Format
+For each test case, output on a new line, the minimal distance between the mentor's room and the farthest room of a student.
+In case the total capacity of the hotel is less than K+1, print −1 instead.
+*/
 
 public class TripTastic {
     static BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
