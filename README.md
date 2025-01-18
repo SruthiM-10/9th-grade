@@ -17,6 +17,8 @@
     - ClosingTheFarm.java (Connected Components, DFS)
     - FencePlanning.java (DFS)
     - Moocast.java (Connected Components)
+- USACO Silver Prefix Sums Problems
+    - CakeGame.java
 
 ## Data Structures Used
 - TreeMap
