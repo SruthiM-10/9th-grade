@@ -17,6 +17,8 @@
     - ClosingTheFarm.java (Connected Components, DFS)
     - FencePlanning.java (DFS)
     - Moocast.java (Connected Components)
+    - BirthdayParty.java (DFS)
+    - Rank.java (DFS)
 - USACO Silver Prefix Sums Problems
     - CakeGame.java
 
