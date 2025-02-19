@@ -20,6 +20,7 @@
     - BirthdayParty.java (DFS)
     - Rank.java (DFS)
     - FlightRoutesCheck.java (DFS)
+    - ConnectingTwoBarns.java (Two Pointers, Connected Components)
 - USACO Silver Prefix Sums Problems
     - CakeGame.java
 
