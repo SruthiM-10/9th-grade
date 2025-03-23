@@ -21,8 +21,12 @@
     - Rank.java (DFS)
     - FlightRoutesCheck.java (DFS)
     - ConnectingTwoBarns.java (Two Pointers, Connected Components)
+    - VocabularyQuiz.java (Trees)
 - USACO Silver Prefix Sums Problems
     - CakeGame.java
+- USACO Miscellaneous
+    - TheBestLineup.java (TreeSet, HashMap)
+    - TransformingPairs.java
 
 ## Data Structures Used
 - TreeMap
