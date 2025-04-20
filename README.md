@@ -28,6 +28,7 @@
 - USACO Miscellaneous
     - TheBestLineup.java (TreeSet, HashMap)
     - TransformingPairs.java
+    - SequenceConstruction (Binary operations)
 
 ## Data Structures Used
 - TreeMap
