@@ -12,6 +12,7 @@
     - TheMeetignPlaceCannotBeChanged.java
     - TripTastic.java
     - SocialDistancing.java
+    - Cowlibi.java (Treemap)
 - USACO Silver Graph Traversal Problems
     - BuildingRoads.java (Connected Components)
     - ClosingTheFarm.java (Connected Components, DFS)
