@@ -13,7 +13,7 @@
     - TripTastic.java
     - SocialDistancing.java
     - Cowlibi.java (Treemap)
-- USACO Silver Graph Traversal Problems
+- USACO Silver Graph Theory Problems
     - BuildingRoads.java (Connected Components)
     - ClosingTheFarm.java (Connected Components, DFS)
     - FencePlanning.java (DFS)
@@ -23,6 +23,7 @@
     - FlightRoutesCheck.java (DFS)
     - ConnectingTwoBarns.java (Two Pointers, Connected Components)
     - VocabularyQuiz.java (Trees)
+    - CompatiblePairs.java (Connected Components)
 - USACO Silver Prefix Sums Problems
     - CakeGame.java
 - USACO Miscellaneous
